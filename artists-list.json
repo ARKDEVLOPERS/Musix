@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "artist": "FL EX",
-    "playlistLink": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/flex-playlist.json",
+    "title": "FL EX",
+    "playlist": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/flex-playlist.json",
     "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/images%20(1).jpeg"
   }
 ]
