@@ -1,7 +1,8 @@
+
 [
   {
     "id": 0,
-    "title": "FL EX - STOP (MAGNOLIA) | فليكس - ستوب (ماجنوليا)",
+    "title": "STOP - ستوب",
     "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/FLEX/STOP.mp3?raw\u003dtrue",
     "lyrics": "",
     "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/FLEX/STOP-POSTER.jpeg",
@@ -9,7 +10,7 @@
   },
   {
     "id": 1,
-    "title": "FL EX - GHAGHA | فليكس - غاغا",
+    "title": "GHAGHA - غاغا",
     "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/FLEX/GHAGHA.mp3?raw\u003dtrue",
     "lyrics": "",
     "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/FLEX/GHAGHA-POSTER.jpeg",
@@ -17,7 +18,7 @@
   },
   {
     "id": 2,
-    "title": "FL EX - 3ASABY | فليكس - عصبي",
+    "title": "3ASABY - عصبي",
     "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/FLEX/3ASABY.mp3?raw\u003dtrue",
     "lyrics": "",
     "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/FLEX/3ASABY-POSTER.jpeg",
@@ -25,7 +26,7 @@
   },
   {
     "id": 3,
-    "title": "FL EX - KATAFAST | فليكس - كاتافاست",
+    "title": "KATAFAST - كاتافاست",
     "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/FLEX/KATAFAST.mp3?raw\u003dtrue",
     "lyrics": "",
     "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/FLEX/KATAFAST-POSTER.jpeg",
@@ -33,7 +34,7 @@
   },
   {
     "id": 4,
-    "title": "FL EX - KHAMSA | فليكس - خمسه",
+    "title": "KHAMSA - خمسه",
     "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/FLEX/KHAMSA.mp3?raw\u003dtrue",
     "lyrics": "",
     "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/FLEX/KHAMSA-POSTER.jpeg",
