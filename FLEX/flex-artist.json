@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "STOP - ستوب",
-    "accent": 0x8020196F3,
+    "accent": 0x2020196F3,
     "artist": "FL EX",
     "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/FLEX/STOP.mp3?raw\u003dtrue",
     "lyrics": "",
@@ -12,7 +12,7 @@
   {
     "id": 1,
     "title": "GHAGHA - غاغا",
-    "accent": 0x80F44336,
+    "accent": 0x20F44336,
     "artist": "FL EX",
     "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/FLEX/GHAGHA.mp3?raw\u003dtrue",
     "lyrics": "",
@@ -22,7 +22,7 @@
   {
     "id": 2,
     "title": "3ASABY - عصبي",
-    "accent": 0x80F44336,
+    "accent": 0x20F44336,
     "artist": "FL EX",
     "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/FLEX/3ASABY.mp3?raw\u003dtrue",
     "lyrics": "",
@@ -32,7 +32,7 @@
   {
     "id": 3,
     "title": "KATAFAST - كاتافاست",
-    "accent": 0x804CAF50,
+    "accent": 0x204CAF50,
     "artist": "FL EX",
     "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/FLEX/KATAFAST.mp3?raw\u003dtrue",
     "lyrics": "",
@@ -42,7 +42,7 @@
   {
     "id": 4,
     "title": "KHAMSA - خمسه",
-    "accent": 0x804CAF50,
+    "accent": 0x204CAF50,
     "artist": "FL EX",
     "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/FLEX/KHAMSA.mp3?raw\u003dtrue",
     "lyrics": "",
