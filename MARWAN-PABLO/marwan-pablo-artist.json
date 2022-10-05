@@ -1,0 +1,342 @@
+[
+  {
+    "id": 0,
+    "title": "RACORE",
+    "accent": "0x2000FF00",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/RACORE.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/RACORE.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 1,
+    "title": "GEB FELOS - جيب فلوس",
+    "accent": "0x200000FF",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/GEB-FELOS.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/GEB-FELOS.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 2,
+    "title": "FOLKLOR - فولكلور",
+    "accent": "0x20FF7400",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/FOLKLOR.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/FOLKLOR.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 3,
+    "title": "MANDOU - ماندو",
+    "accent": "0x20646464",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/MANDOU.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/MANDOU.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 4,
+    "title": "ABU MECCA - ابو مكه",
+    "accent": "0x20FF0000",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/ABU-MECCA.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/ABU-MECCA.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 5,
+    "title": "DAIRA 3ALMASLA7A - دايره عالمصلحه",
+    "accent": "0x20FFBC00",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/DAIRA-ALMASLA7A.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/DAIRA-ALMASLA7A.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 6,
+    "title": "ELHALAL - الحلال",
+    "accent": "0x20FF0000",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/ELHALAL.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/ELHALAL.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 7,
+    "title": "FREE - فري",
+    "accent": "0x207B78C6",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/FREE.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/FREE.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 8,
+    "title": "BARBARY - بربري",
+    "accent": "0x20FF7400",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/BARBARY.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/BARBARY.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 9,
+    "title": "AFTER PARTY - افتر بارتي",
+    "accent": "0x207B78C6",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/AFTER-PARTY.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/AFTER-PARTY.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 10,
+    "title": "GHABA - غابه",
+    "accent": "0x20646464",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/GHABA.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/GHABA.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 11,
+    "title": "BAWAKIZ - بواكيز",
+    "accent": "0x20646464",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/BAWAKIZ.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/BAWAKIZ.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 12,
+    "title": "DENAMET - ديناميت",
+    "accent": "0x20FF0000",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/DENAMET.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/DENAMET.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 13,
+    "title": "SCANIA - سكانيا",
+    "accent": "0x207B78C6",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/SCANIA.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/SCANIA.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 14,
+    "title": "MAT - مات",
+    "accent": "0x2000FF00",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/MAT.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/MAT.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 15,
+    "title": "3EZBET ELGAME3 - عزبة الجامع",
+    "accent": "0x2000FF00",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/3EZBET-ELGAME3.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/3EZBET-ELGAME3.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 16,
+    "title": "MERRY - ميري",
+    "accent": "0x20646464",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/MERRY.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/MERRY.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 17,
+    "title": "7EEN MAYSARA - حين ميسره",
+    "accent": "0x2000FF00",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/7EEN-MAYSARA.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/7EEN-MAYSARA.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 18,
+    "title": "EISH'HA B'AFIA - عيشها بعافيه",
+    "accent": "0x200000FF",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/EISH-HA-B-AFIA.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/EISH-HA-B-AFIA.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 19,
+    "title": "BRRR BRRR BRRR - بررر بررر بررر",
+    "accent": "0x20646464",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/BRRR.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/BRRR.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 20,
+    "title": "ELHOB FEIN - الحب فين",
+    "accent": "0x20FF0000",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/ELHOB-FEIN.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/ELHOB-FEIN.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 21,
+    "title": "CTRL - كنترول",
+    "accent": "0x20FF0000",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/CTRL.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/CTRL.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 22,
+    "title": "DON - دون",
+    "accent": "0x20FF0000",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/DON.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/DON.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 23,
+    "title": "ATARY - اتاري",
+    "accent": "0x20FF0000",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/ATARY.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/ATARY.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 24,
+    "title": "PEPSI BLACK - بيبسي بلاك",
+    "accent": "0x20646464",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/PEPSI-BLACK.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/PEPSI-BLACK.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 25,
+    "title": "3AYZ FIN - عايز فين",
+    "accent": "0x20646464",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/3AYZ-FIN.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/3AYZ-FIN.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 26,
+    "title": "ELGEMEZA - الجميزه",
+    "accent": "0x20646464",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/ELGEMEZA.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/ELGEMEZA.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 27,
+    "title": "KAAS - كاس",
+    "accent": "0x20FF0000",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/KAAS.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/KAAS.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 28,
+    "title": "PARANOIA - بارانويا",
+    "accent": "0x20FF0000",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/PARANOIA.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/PARANOIA.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 29,
+    "title": "A7LA TOUR - احلي تاور",
+    "accent": "0x200000FF",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/A7LA-TOUR.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/7LA-TOUR.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 30,
+    "title": "0x207B78C6",
+    "accent": "0x204CAF50",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/EL8OLAF.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/EL8OLAF.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 31,
+    "title": "KHALY BALK - خلي بالك",
+    "accent": "0x20646464",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/KHALY-BALK.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/KHALY-BALK.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 32,
+    "title": "KHALENA AS7AB - خلينا اصحاب",
+    "accent": "0x20FF7400",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/KHALENA-AS7AB.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/KHALENA-AS7AB.jpeg",
+    "playlist": ""
+  },
+  {
+    "id": 33,
+    "title": "SINDBAD - سندباد",
+    "accent": "0x20FF7400",
+    "artist": "MARWAN PABLO",
+    "song": "https://github.com/ARKDEVLOPERS/Pop-Hub/blob/main/MARWAN-PABLO/SINDBAD.mp3?raw=true",
+    "lyrics": "",
+    "poster": "https://raw.githubusercontent.com/ARKDEVLOPERS/Pop-Hub/main/MARWAN-PABLO/POSTER/SINDBAD.jpeg",
+    "playlist": ""
+  }
+]
