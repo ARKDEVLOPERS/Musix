@@ -1,22 +1,12 @@
 [
   {
-    "id": 0,
-    "accent": 0,
-    "title": "FL EX",
-    "artist": "",
-    "playlist": "https://epicstudios856.github.io/Musix/FLEX/flex-artist.json",
-    "poster": "https://pbs.twimg.com/profile_images/1518320720803246081/zE2FTy8r_400x400.jpg",
-    "lyrics": "",
-    "song": ""
+    "artist-name": "FL EX",
+    "artist-playlist": "https://epicstudios856.github.io/Musix/FLEX/flex-artist.json",
+    "artist-image": "flex.jpeg"
   },
   {
-    "id": 1,
-    "accent": 0,
-    "title": "MARWAN PABLO",
-    "artist": "",
-    "playlist": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/marwan-pablo-artist.json",
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PRVkFN50HZCPLAYogBmwmfc8wN3dVMlws2KrJcm_bh-45GjMF4TqCEE&s=10",
-    "lyrics": "",
-    "song": ""
+    "artist-name": "MARWAN PABLO",
+    "artist-playlist": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/marwan-pablo-artist.json",
+    "artist-image": "marwan-pablo.jpeg"
   }
 ]
