@@ -1,0 +1,274 @@
+[
+  {
+    "song-id": 0,
+    "song-name": "RACORE",
+    "song-color": 0xFF00FF00,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/RACORE.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/RACORE.jpeg"
+  },
+  {
+    "song-id": 1,
+    "song-name": "GEB FELOS - جيب فلوس",
+    "song-color": 0xFF0000FF,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/GEB-FELOS.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/GEB-FELOS.jpeg"
+  },
+  {
+    "song-id": 2,
+    "song-name": "FOLKLOR - فولكلور",
+    "song-color": 0xFFFF7400,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/FOLKLOR.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/FOLKLOR.jpeg"
+  },
+  {
+    "song-id": 3,
+    "song-name": "MANDOU - ماندو",
+    "song-color": 0xFF646464,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/MANDOU.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/MANDOU.jpeg"
+  },
+  {
+    "song-id": 4,
+    "song-name": "ABU MECCA - ابو مكه",
+    "song-color": 0xFFFF0000,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/ABU-MECCA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/ABU-MECCA.jpeg"
+  },
+  {
+    "song-id": 5,
+    "song-name": "DAIRA 3ALMASLA7A - دايره عالمصلحه",
+    "song-color": 0xFFFFBC00,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/DAIRA-3ALMASLA7A.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/DAIRA-3ALMASLA7A.jpeg"
+  },
+  {
+    "song-id": 6,
+    "song-name": "ELHALAL - الحلال",
+    "song-color": 0xFFFF0000,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/ELHALAL.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/ELHALAL.jpeg"
+  },
+  {
+    "song-id": 7,
+    "song-name": "FREE - فري",
+    "song-color": 0xFF7B78C6,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/FREE.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/FREE.jpeg"
+  },
+  {
+    "song-id": 8,
+    "song-name": "BARBARY - بربري",
+    "song-color": 0xFFFF7400,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/BARBARY.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/BARBARY.jpeg"
+  },
+  {
+    "song-id": 9,
+    "song-name": "AFTER PARTY - افتر بارتي",
+    "song-color": 0xFF7B78C6,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/AFTER-PARTY.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/AFTER-PARTY.jpeg"
+  },
+  {
+    "song-id": 10,
+    "song-name": "GHABA - غابه",
+    "song-color": 0xFF646464,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/GHABA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/GHABA.jpeg"
+  },
+  {
+    "song-id": 11,
+    "song-name": "BAWAKIZ - بواكيز",
+    "song-color": 0xFF646464,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/BAWAKIZ.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/BAWAKIZ.jpeg"
+  },
+  {
+    "song-id": 12,
+    "song-name": "DENAMET - ديناميت",
+    "song-color": 0xFFFF0000,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/DENAMET.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/DENAMET.jpeg"
+  },
+  {
+    "song-id": 13,
+    "song-name": "SCANIA - سكانيا",
+    "song-color": 0xFF7B78C6,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/SCANIA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/SCANIA.jpeg"
+  },
+  {
+    "song-id": 14,
+    "song-name": "MAT - مات",
+    "song-color": 0xFF00FF00,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/MAT.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/MAT.jpeg"
+  },
+  {
+    "song-id": 15,
+    "song-name": "3EZBET ELGAME3 - عزبة الجامع",
+    "song-color": 0xFF00FF00,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/3EZBET-ELGAME3.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/3EZBET-ELGAME3.jpeg"
+  },
+  {
+    "song-id": 16,
+    "song-name": "MERRY - ميري",
+    "song-color": 0xFF646464,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/MERRY.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/MERRY.jpeg"
+  },
+  {
+    "song-id": 17,
+    "song-name": "7EEN MAYSARA - حين ميسره",
+    "song-color": 0xFF00FF00,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/7EEN-MAYSARA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/7EEN-MAYSARA.jpeg"
+  },
+  {
+    "song-id": 18,
+    "song-name": "EISH'HA B'AFIA - عيشها بعافيه",
+    "song-color": 0xFF0000FF,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/EISH-HA-B-AFIA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/EISH-HA-B-AFIA.jpeg"
+  },
+  {
+    "song-id": 19,
+    "song-name": "BRRR BRRR BRRR - بررر بررر بررر",
+    "song-color": 0xFF646464,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/BRRR.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/BRRR.jpeg"
+  },
+  {
+    "song-id": 20,
+    "song-name": "ELHOB FEIN - الحب فين",
+    "song-color": 0xFFFF0000,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/ELHOB-FEIN.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/ELHOB-FEIN.jpeg"
+  },
+  {
+    "song-id": 21,
+    "song-name": "CTRL - كنترول",
+    "song-color": 0xFFFF0000,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/CTRL.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/CTRL.jpeg"
+  },
+  {
+    "song-id": 22,
+    "song-name": "DON - دون",
+    "song-color": 0xFFFF0000,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/DON.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/DON.jpeg"
+  },
+  {
+    "song-id": 23,
+    "song-name": "ATARY - اتاري",
+    "song-color": 0xFFFF0000,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/ATARY.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/ATARY.jpeg"
+  },
+  {
+    "song-id": 24,
+    "song-name": "PEPSI BLACK - بيبسي بلاك",
+    "song-color": 0xFF646464,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/PEPSI-BLACK.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/PEPSI-BLACK.jpeg"
+  },
+  {
+    "song-id": 25,
+    "song-name": "3AYZ FIN - عايز فين",
+    "song-color": 0xFF646464,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/3AYZ-FIN.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/3AYZ-FIN.jpeg"
+  },
+  {
+    "song-id": 26,
+    "song-name": "ELGEMEZA - الجميزه",
+    "song-color": 0xFF646464,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/ELGEMEZA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/ELGEMEZA.jpeg"
+  },
+  {
+    "song-id": 27,
+    "song-name": "KAAS - كاس",
+    "song-color": 0xFFFF0000,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/KAAS.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/KAAS.jpeg"
+  },
+  {
+    "song-id": 28,
+    "song-name": "PARANOIA - بارانويا",
+    "song-color": 0xFFFF0000,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/PARANOIA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/PARANOIA.jpeg"
+  },
+  {
+    "song-id": 29,
+    "song-name": "A7LA TOUR - احلي تاور",
+    "song-color": 0xFF0000FF,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/A7LA-TOUR.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/A7LA-TOUR.jpeg"
+  },
+  {
+    "song-id": 30,
+    "song-name": "EL8OLAF - الغلاف",
+    "song-color": 0xFF7B78C6,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/EL8OLAF.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/EL8OLAF.jpeg"
+  },
+  {
+    "song-id": 31,
+    "song-name": "KHALY BALK - خلي بالك",
+    "song-color": 0xFF646464,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/KHALY-BALK.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/KHALY-BALK.jpeg"
+  },
+  {
+    "song-id": 32,
+    "song-name": "KHALENA AS7AB - خلينا اصحاب",
+    "song-color": 0xFFFF7400,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/KHALENA-AS7AB.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/KHALENA-AS7AB.jpeg"
+  },
+  {
+    "song-id": 33,
+    "song-name": "SINDBAD - سندباد",
+    "song-color": 0xFFFF7400,
+    "song-artist": "MARWAN PABLO",
+    "song-link": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/SINDBAD.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/MARWAN-PABLO/POSTER/SINDBAD.jpeg"
+  }
+]
