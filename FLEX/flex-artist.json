@@ -1,52 +1,42 @@
 [
   {
-    "id": 0,
-    "title": "STOP - ستوب",
-    "accent": 0x20196F3,
-    "artist": "FL EX",
-    "song": "https://epicstudios856.github.io/Musix/FLEX/STOP.mp3?raw\u003dtrue",
-    "lyrics": "https://epicstudios856.github.io/Musix/FLEX/STOP.lrc",
-    "poster": "https://epicstudios856.github.io/Musix/FLEX/STOP-POSTER.jpeg",
-    "playlist": ""
+    "song-id": 0,
+    "song-name": "STOP - ستوب",
+    "song-color": 0xFFF196F3,
+    "song-artist": "FL EX",
+    "song-link": "https://epicstudios856.github.io/Musix/FLEX/STOP.mp3?raw\u003dtrue",
+    "song-image": "https://epicstudios856.github.io/Musix/FLEX/STOP-POSTER.jpeg"
   },
   {
-    "id": 1,
-    "title": "GHAGHA - غاغا",
-    "accent": 0x20F44336,
-    "artist": "FL EX",
-    "song": "https://epicstudios856.github.io/Musix/FLEX/GHAGHA.mp3?raw\u003dtrue",
-    "lyrics": "",
-    "poster": "https://epicstudios856.github.io/Musix/FLEX/GHAGHA-POSTER.jpeg",
-    "playlist": ""
+    "song-id": 1,
+    "song-name": "GHAGHA - غاغا",
+    "song-color": 0xFFF44336,
+    "song-artist": "FL EX",
+    "song-link": "https://epicstudios856.github.io/Musix/FLEX/GHAGHA.mp3?raw\u003dtrue",
+    "song-image": "https://epicstudios856.github.io/Musix/FLEX/GHAGHA-POSTER.jpeg"
   },
   {
-    "id": 2,
-    "title": "3ASABY - عصبي",
-    "accent": 0x20F44336,
-    "artist": "FL EX",
-    "song": "https://epicstudios856.github.io/Musix/FLEX/3ASABY.mp3?raw\u003dtrue",
-    "lyrics": "",
-    "poster": "https://epicstudios856.github.io/Musix/FLEX/3ASABY-POSTER.jpeg",
-    "playlist": ""
+    "song-id": 2,
+    "song-name": "3ASABY - عصبي",
+    "song-color": 0xFFF44336,
+    "song-artist": "FL EX",
+    "song-link": "https://epicstudios856.github.io/Musix/FLEX/3ASABY.mp3?raw\u003dtrue",
+    "song-image": "https://epicstudios856.github.io/Musix/FLEX/3ASABY-POSTER.jpeg"
   },
   {
-    "id": 3,
-    "title": "KATAFAST - كاتافاست",
-    "accent": 0x204CAF50,
-    "artist": "FL EX",
-    "song": "https://epicstudios856.github.io/Musix/FLEX/KATAFAST.mp3?raw\u003dtrue",
-    "lyrics": "",
-    "poster": "https://epicstudios856.github.io/Musix/FLEX/KATAFAST-POSTER.jpeg",
-    "playlist": ""
+    "song-id": 3,
+    "song-name": "KATAFAST - كاتافاست",
+    "song-color": 0xFF4CAF50,
+    "song-artist": "FL EX",
+    "song-link": "https://epicstudios856.github.io/Musix/FLEX/KATAFAST.mp3?raw\u003dtrue",
+    "song-image": "https://epicstudios856.github.io/Musix/FLEX/KATAFAST-POSTER.jpeg"
   },
   {
-    "id": 4,
-    "title": "KHAMSA - خمسه",
-    "accent": 0x204CAF50,
-    "artist": "FL EX",
-    "song": "https://epicstudios856.github.io/Musix/FLEX/KHAMSA.mp3?raw\u003dtrue",
-    "lyrics": "",
-    "poster": "https://epicstudios856.github.io/Musix/FLEX/KHAMSA-POSTER.jpeg",
-    "playlist": ""
+    "song-id": 4,
+    "song-name": "KHAMSA - خمسه",
+    "song-color": 0xFF4CAF50,
+    "song-artist": "FL EX",
+    "song-link": "https://epicstudios856.github.io/Musix/FLEX/KHAMSA.mp3?raw\u003dtrue",
+    "song-image": "https://epicstudios856.github.io/Musix/FLEX/KHAMSA-POSTER.jpeg"
   }
 ]
