@@ -1,0 +1,17 @@
+[
+  {
+    "artist-name": "DB4",
+    "artist-playlist": "https://epicstudios856.github.io/Musix/songs/DB4.json",
+    "artist-image": "DB4.png"
+  },
+  {
+    "artist-name": "Smokky",
+    "artist-playlist": "https://epicstudios856.github.io/Musix/songs/Smokky.json",
+    "artist-image": "Smokky.png"
+  },
+  {
+    "artist-name": "MOHY",
+    "artist-playlist": "https://epicstudios856.github.io/Musix/songs/MOHY.json",
+    "artist-image": "MOHY.png"
+  }
+]
