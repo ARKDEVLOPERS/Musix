@@ -1,0 +1,26 @@
+[
+  {
+    "song-id": 0,
+    "song-name": "ALORS ON DANSE",
+    "song-color": 0xFF000000,
+    "song-artist": "DB4",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/alorsondanse.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/alorsondanse.png"
+  },
+  {
+    "song-id": 1,
+    "song-name": "ISMA3ILIA",
+    "song-color": 0xFF000000,
+    "song-artist": "DB4 ft. Smokky",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/ISMA3ILIA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/ISMA3ILIA.png"
+  },
+  {
+    "song-id": 2,
+    "song-name": "SILENCE",
+    "song-color": 0xFF000000,
+    "song-artist": "DB4 ft. MOHY",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/SILENCE.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/MASALE7.png"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "song-id": 0,
+    "song-name": "7AFLA",
+    "song-color": 0xFF000000,
+    "song-artist": "MOHY",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/7AFLA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/ARAB888.png"
+  },
+  {
+    "song-id": 1,
+    "song-name": "SA7RAA",
+    "song-color": 0xFF000000,
+    "song-artist": "MOHY",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/SA7RAA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/ARAB888.png"
+  },
+  {
+    "song-id": 2,
+    "song-name": "LORD",
+    "song-color": 0xFF000000,
+    "song-artist": "MOHY",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/LORD.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/MASALE7.png"
+  },
+  {
+    "song-id": 3,
+    "song-name": "SILENCE",
+    "song-color": 0xFF000000,
+    "song-artist": "MOHY ft. DB4",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/SILENCE.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/MASALE7.png"
+  }
+]
