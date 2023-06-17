@@ -1,0 +1,34 @@
+[
+  {
+    "song-id": 0,
+    "song-name": "ARAB888",
+    "song-color": 0xFF000000,
+    "song-artist": "Smokky",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/ARAB888.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/ARAB888.png"
+  },
+  {
+    "song-id": 1,
+    "song-name": "MASALE7",
+    "song-color": 0xFF000000,
+    "song-artist": "Smokky",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/MASALE7.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/MASALE7.png"
+  },
+  {
+    "song-id": 2,
+    "song-name": "Lost Dreams",
+    "song-color": 0xFF000000,
+    "song-artist": "Smokky",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/lostdreams.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/lostdreams.png"
+  },
+  {
+    "song-id": 3,
+    "song-name": "ISMA3ILIA",
+    "song-color": 0xFF000000,
+    "song-artist": "Smokky ft. DB4",
+    "song-link": "https://epicstudios856.github.io/Musix/songs/ISMA3ILIA.mp3?raw=true",
+    "song-image": "https://epicstudios856.github.io/Musix/songs/ISMA3ILIA.png"
+  }
+]
